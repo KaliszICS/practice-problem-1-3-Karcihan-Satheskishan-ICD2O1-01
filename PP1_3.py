@@ -1,5 +1,9 @@
-  #Write Assignment code here
-  #Remember your code must be indented once
+''' 
+    Lesson 3 - Using Strings
+    Author: Karcihan Satheskishan
+    Date Created: September 17th, 2024 
+    Date Last Modified: September 17th, 2024 
+'''
 def q1():
   print(" * * * * * *")
   print("* * * * * * ")
