@@ -6,23 +6,10 @@
 '''
 
 def q1():
-  print(" * * * * * *")
-  print("* * * * * * ")
-  print(" * * * * * *")
-  print("* * * * * * ")
-  print(" * * * * * *")
-  print("* * * * * * ")
-  print("\n* * * * *")
-  print("*       *")
-  print("*       *")
-  print("*       *")
-  print("* * * * *")
-  print("\n* * * * * *")
-  print(" *       *")
-  print("  *     *")
-  print("   *   *")
-  print("    * *")
-  print("     *")
+  print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n")
+  print("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
+  print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
+ 
   
 def q2():
   print("Hello", end=" ")
