@@ -4,6 +4,7 @@
     Date Created: September 17th, 2024 
     Date Last Modified: September 18th, 2024 
 '''
+
 def q1():
   print(" * * * * * *")
   print("* * * * * * ")
