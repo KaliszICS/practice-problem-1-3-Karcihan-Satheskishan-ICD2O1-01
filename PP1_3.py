@@ -30,7 +30,6 @@ def q2():
 def q3():
   print('"Man"\n"Board"\n"Man Overboard"')
 
-
 #Do not alter anything after this line
 q1()
 q2()
